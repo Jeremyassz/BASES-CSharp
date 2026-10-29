@@ -1,0 +1,15 @@
+C:\Users\chilab\Desktop\BASES C#\bin\Debug\net10.0\BASES C#.exe
+C:\Users\chilab\Desktop\BASES C#\bin\Debug\net10.0\BASES C#.deps.json
+C:\Users\chilab\Desktop\BASES C#\bin\Debug\net10.0\BASES C#.runtimeconfig.json
+C:\Users\chilab\Desktop\BASES C#\bin\Debug\net10.0\BASES C#.dll
+C:\Users\chilab\Desktop\BASES C#\bin\Debug\net10.0\BASES C#.pdb
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.AssemblyInfoInputs.cache
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.AssemblyInfo.cs
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.csproj.CoreCompileInputs.cache
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.sourcelink.json
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.dll
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\refint\BASES C#.dll
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.pdb
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\BASES C#.genruntimeconfig.cache
+C:\Users\chilab\Desktop\BASES C#\obj\Debug\net10.0\ref\BASES C#.dll
